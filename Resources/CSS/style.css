@@ -1,0 +1,137 @@
+/* main color 16a085
+dark color 0c5547
+light color ebfcf9*/
+
+.arch-edu-h{
+    text-align: center;
+    padding-top: 90px;
+    font-size: 50px;
+    color: #16a085;
+}
+
+.arch-edu-col{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: none;
+    color: #0c5547;
+    
+}
+
+.arch-profile-text{
+    font-size: 20px;
+}
+
+.arch-box{
+    display: inline-block;
+    font-size: 20px;
+    color: #0c5547;
+    line-height: 200%;
+    vertical-align: middle;
+    margin-top: px;
+    
+}
+
+.arch-list {
+    list-style: none;
+    padding: none;
+    
+}
+
+.arch-pro-h {
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+.arch-bor-pad{
+    background-color: #ebfcf9;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 2.5%;
+    box-shadow: 0 2px 2px #0c5547;
+}
+
+.arch-line-thick{
+    display: block;
+    height: 3px;
+    background-color: #0c5547;
+    content: " ";
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.arch-line-thin{
+    display: block;
+    height: 1px;
+    background-color: #0c5547;
+    content: " ";
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.arch-edu-box,
+.arch-work-box{
+    border-radius: 30px;
+    padding-bottom: 50px;
+}
+
+.arch-work-box {
+    background-color: #ebfcf9;
+}
+
+.arch-info{
+    padding-top: none;
+    margin-top: none;
+}
+
+.arch-work-col{
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: none;
+    color: #0c5547;
+}
+
+.arch-sides-h{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+    color: #16a085;
+    
+}
+.arch-line-side{
+    display: block;
+    height: 1px;
+    background-color: #0c5547;
+    content: " ";
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.arch-side-list{
+    padding-left: 100px;
+}
+
+.js--wp-1,
+.js--wp-2,
+.js--wp-3
+{
+    opacity: 0;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+}
+
+.js--wp-4 {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+}
+
+.js--wp-1.animated,
+.js--wp-2.animated,
+.js--wp-3.animated {
+    opacity: 1;
+}
