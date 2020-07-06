@@ -77,10 +77,14 @@ light color ebfcf9*/
 .arch-work-box{
     border-radius: 30px;
     padding-bottom: 50px;
+    margin: 20px 200px;
+}
+.arch-edu-box{
+    background-color: #cef8f0;
 }
 
 .arch-work-box {
-    background-color: #ebfcf9;
+    background-color: #a1f2e2;
 }
 
 .arch-info{
@@ -114,6 +118,13 @@ light color ebfcf9*/
 }
 .arch-side-list{
     padding-left: 100px;
+}
+
+.arch-img {
+    
+    border-radius: 50%;
+    margin-right: 10px;
+    vertical-align: middle;
 }
 
 /*
