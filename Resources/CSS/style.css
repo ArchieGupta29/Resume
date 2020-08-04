@@ -75,16 +75,18 @@ light color ebfcf9*/
 
 .arch-edu-box,
 .arch-work-box{
+    width:80%;
+    margin-left: 10%;
     border-radius: 30px;
     padding-bottom: 50px;
-    margin: 20px 200px;
+    margin: 20px 125px;
 }
 .arch-edu-box{
     background-color: #cef8f0;
 }
 
 .arch-work-box {
-    background-color: #a1f2e2;
+/*    background-color: #a1f2e2;*/
 }
 
 .arch-info{
@@ -126,7 +128,9 @@ light color ebfcf9*/
     margin-right: 10px;
     vertical-align: middle;
 }
-
+.arch-github {
+    color: black;
+}
 /*
 .js--wp-1,
 .js--wp-2,
