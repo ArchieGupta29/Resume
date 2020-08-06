@@ -9,6 +9,10 @@ light color ebfcf9*/
     color: #16a085;
 }
 
+h1,h4 {
+    color: #16a085;
+    margin-bottom: 0;
+}
 .arch-edu-col{
     text-align: center;
     font-size: 25px;
@@ -40,7 +44,7 @@ light color ebfcf9*/
 .arch-pro-h {
     text-align: left;
     padding-top: 50px;
-    padding-left: 100px;
+    padding-left: 50px;
 }
 
 .arch-bor-pad{
@@ -75,16 +79,23 @@ light color ebfcf9*/
 
 .arch-edu-box,
 .arch-work-box{
-    width:80%;
-    margin-left: 10%;
+    width:90%;
+    margin-left: 5%;
     border-radius: 30px;
-    padding-bottom: 50px;
-    margin: 20px 125px;
+    padding-bottom: 20px;
+
 }
 .arch-edu-box{
     background-color: #cef8f0;
+    padding-right: 10px;
 }
 
+.arch-li {
+    list-style: none;
+    color: #0c5547;
+    
+
+}
 .arch-work-box {
 /*    background-color: #a1f2e2;*/
 }
